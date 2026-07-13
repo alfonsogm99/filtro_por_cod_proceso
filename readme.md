@@ -2,7 +2,7 @@
 
 Previamente, se ha preparado un libro de Excel con las hojas necesarias, tablas dinámicas y datos.
 
-1. Se actualizan los datos en la hoja de origen (bbdd).
+1. Se actualizan los datos en la hoja de origen `bbdd`.
 
 #### script.py
 
